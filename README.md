@@ -13,4 +13,4 @@ to evaluate more correctly about the athletes' abilities before playing.
 The main objective of this project is to find estimated deadlift for builders.The dataset is downloaded from Kaggle.The dataset has attributes playerId, name, age, equipement ,sex, bodyweight, bestbenchsquat etc.
 For model building, regression algorithms such as Linear Regression, Decision tree, Random forest, and XgBoost will be used. We will train and test the data with these algorithms. From this the best model is selected and saved in pkl format. We will also be deploying our model locally using Flask.
 
-This is the video demonstration link :https://drive.google.com/file/d/15WGEEBEeS5CGyiTr966SqJ36IgSu5A-f/view?usp=share_link
+This is the video demonstration link :https://drive.google.com/file/d/1Mg6m_SiMRylRiC-IK1hWAqhxiI6Y_s1c/view?usp=sharing
